@@ -1,3 +1,4 @@
+//1
 fun comressString(input: String): String {
     var result = ""
     var count = 1
